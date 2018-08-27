@@ -5,4 +5,5 @@ pages:
   - Vison Document: visionDoc.md
   - Supplementary Specification: suppSpec.md
   - Glossary : glossary.md
+  - Use Case Model : use_case_model.md
 theme: material
