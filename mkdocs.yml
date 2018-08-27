@@ -1,0 +1,8 @@
+site_name: Capstone Group 2
+
+pages:
+  - Home: index.md
+  - Vison Document: visionDoc.md
+  - Supplementary Specification: suppSpec.md
+  - Glossary : glossary.md
+theme: material
